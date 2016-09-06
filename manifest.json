@@ -20,7 +20,6 @@
     {
       "js": [
         "jquery.min.js"
-        //"content_script.js"
       ],
       "matches": [
         "http://*/*",
